@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/Parafait-BarCodeReader" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/Parafait-NFC" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/barcode_reader" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/nfc" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/parafait_game_deduction" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/semnox-tablet-pos" vcs="Git" />
+  </component>
+</project>

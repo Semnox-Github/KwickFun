@@ -1,0 +1,661 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f9825c5a-20c7-4379-bd07-eef22115e9c4" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/launch.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/launch.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/barcode_reader/example/android/app/src/main/java/com/semnox/parafait/barcode_reader_example/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/packages/barcode_reader/example/android/app/src/main/java/com/semnox/parafait/barcode_reader_example/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/barcode_reader/example/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/barcode_reader/example/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/barcode_reader/example/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/packages/barcode_reader/example/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/barcode_reader/example/windows/flutter/generated_plugin_registrant.cc" beforeDir="false" afterPath="$PROJECT_DIR$/packages/barcode_reader/example/windows/flutter/generated_plugin_registrant.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/barcode_reader/example/windows/flutter/generated_plugin_registrant.h" beforeDir="false" afterPath="$PROJECT_DIR$/packages/barcode_reader/example/windows/flutter/generated_plugin_registrant.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/barcode_reader/example/windows/flutter/generated_plugins.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/packages/barcode_reader/example/windows/flutter/generated_plugins.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/barcode_reader/lib/barcode_reader.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/barcode_reader/lib/barcode_reader.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/barcode_reader/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/barcode_reader/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/barcode_reader/test/barcode_reader_test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/barcode_reader/test/barcode_reader_test.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/nfc/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/packages/nfc/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_game_deduction/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_game_deduction/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_game_deduction/android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/parafait_game_deduction/android/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_game_deduction/android/app/src/development/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/parafait_game_deduction/android/app/src/development/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_game_deduction/android/app/src/development/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/parafait_game_deduction/android/app/src/development/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_game_deduction/android/app/src/development/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/parafait_game_deduction/android/app/src/development/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_game_deduction/android/app/src/development/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/parafait_game_deduction/android/app/src/development/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_game_deduction/android/app/src/development/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/parafait_game_deduction/android/app/src/development/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_game_deduction/android/app/src/development/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/parafait_game_deduction/android/app/src/development/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_game_deduction/android/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/parafait_game_deduction/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_game_deduction/android/app/src/main/kotlin/com/example/game_ride/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/parafait_game_deduction/android/app/src/main/kotlin/com/example/game_ride/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_game_deduction/android/app/src/production/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/parafait_game_deduction/android/app/src/production/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_game_deduction/android/app/src/production/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/parafait_game_deduction/android/app/src/production/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_game_deduction/android/app/src/production/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/parafait_game_deduction/android/app/src/production/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_game_deduction/android/app/src/production/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/parafait_game_deduction/android/app/src/production/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_game_deduction/android/app/src/production/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/parafait_game_deduction/android/app/src/production/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_game_deduction/android/app/src/production/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/parafait_game_deduction/android/app/src/production/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_game_deduction/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/parafait_game_deduction/android/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_game_deduction/assets/images/semnox_logo_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_game_deduction/lib/app.dart" beforeDir="false" afterPath="$PROJECT_DIR$/parafait_game_deduction/lib/app.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_game_deduction/lib/app/authentication/index.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_game_deduction/lib/app/authentication/routes/index.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_game_deduction/lib/app/authentication/routes/module_config.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_game_deduction/lib/app/authentication/routes/routes.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_game_deduction/lib/app/authentication/view/index.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_game_deduction/lib/app/authentication/view/pages/app_login_form.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_game_deduction/lib/app/authentication/view/pages/index.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_game_deduction/lib/app/authentication/view/pages/semnox_login_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_game_deduction/lib/app/authentication/view_models/index.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_game_deduction/lib/app/authentication/view_models/login_view_model.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_game_deduction/lib/app/game_ride/bl/active_machines_bl.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_game_deduction/lib/app/game_ride/game_ride.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_game_deduction/lib/app/game_ride/provider/machine_provider.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_game_deduction/lib/app/game_ride/provider/provider.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_game_deduction/lib/app/game_ride/provider/selected_game_machines.dart" beforeDir="false" afterPath="$PROJECT_DIR$/parafait_game_deduction/lib/app/game_ride/provider/selected_game_machines.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_game_deduction/lib/app/game_ride/provider/view_model/account_history_view_model.dart" beforeDir="false" afterPath="$PROJECT_DIR$/parafait_game_deduction/lib/app/game_ride/provider/view_model/account_history_view_model.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_game_deduction/lib/app/game_ride/provider/view_model/info_preview_view_model.dart" beforeDir="false" afterPath="$PROJECT_DIR$/parafait_game_deduction/lib/app/game_ride/provider/view_model/info_preview_view_model.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_game_deduction/lib/app/game_ride/provider/view_model/machine_selection_view_model.dart" beforeDir="false" afterPath="$PROJECT_DIR$/parafait_game_deduction/lib/app/game_ride/provider/view_model/machine_selection_view_model.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_game_deduction/lib/app/game_ride/provider/view_model/start_ride_view_model.dart" beforeDir="false" afterPath="$PROJECT_DIR$/parafait_game_deduction/lib/app/game_ride/provider/view_model/start_ride_view_model.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_game_deduction/lib/app/game_ride/routes/module.dart" beforeDir="false" afterPath="$PROJECT_DIR$/parafait_game_deduction/lib/app/game_ride/routes/module.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_game_deduction/lib/app/game_ride/view/pages/semnox_purchases_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/parafait_game_deduction/lib/app/game_ride/view/pages/semnox_purchases_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_game_deduction/lib/app/game_ride/view/pages/semnox_ride_entry_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/parafait_game_deduction/lib/app/game_ride/view/pages/semnox_ride_entry_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_game_deduction/lib/app/game_ride/view/pages/semnox_ticket_card.dart" beforeDir="false" afterPath="$PROJECT_DIR$/parafait_game_deduction/lib/app/game_ride/view/pages/semnox_ticket_card.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_game_deduction/lib/app/game_ride/view/pages/set_game_machine.dart" beforeDir="false" afterPath="$PROJECT_DIR$/parafait_game_deduction/lib/app/game_ride/view/pages/set_game_machine.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_game_deduction/lib/app/game_ride/view/widgets/account_balance_preview.dart" beforeDir="false" afterPath="$PROJECT_DIR$/parafait_game_deduction/lib/app/game_ride/view/widgets/account_balance_preview.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_game_deduction/lib/app/game_ride/view/widgets/account_info_preview.dart" beforeDir="false" afterPath="$PROJECT_DIR$/parafait_game_deduction/lib/app/game_ride/view/widgets/account_info_preview.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_game_deduction/lib/app/game_ride/view/widgets/balance_preview.dart" beforeDir="false" afterPath="$PROJECT_DIR$/parafait_game_deduction/lib/app/game_ride/view/widgets/balance_preview.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_game_deduction/lib/app/game_ride/view/widgets/card_preview.dart" beforeDir="false" afterPath="$PROJECT_DIR$/parafait_game_deduction/lib/app/game_ride/view/widgets/card_preview.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_game_deduction/lib/app/game_ride/view/widgets/game_and_purchase_button.dart" beforeDir="false" afterPath="$PROJECT_DIR$/parafait_game_deduction/lib/app/game_ride/view/widgets/game_and_purchase_button.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_game_deduction/lib/app/game_ride/view/widgets/post_gameplay_result.dart" beforeDir="false" afterPath="$PROJECT_DIR$/parafait_game_deduction/lib/app/game_ride/view/widgets/post_gameplay_result.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_game_deduction/lib/app/settings/routes/guard/authentication_guard.dart" beforeDir="false" afterPath="$PROJECT_DIR$/parafait_game_deduction/lib/app/settings/routes/guard/authentication_guard.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_game_deduction/lib/app/settings/routes/route.dart" beforeDir="false" afterPath="$PROJECT_DIR$/parafait_game_deduction/lib/app/settings/routes/route.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_game_deduction/lib/app/settings/view/pages/semnox_app_settings_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/parafait_game_deduction/lib/app/settings/view/pages/semnox_app_settings_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_game_deduction/lib/app/setup/routes/index.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_game_deduction/lib/app/setup/routes/router.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_game_deduction/lib/app/setup/routes/setup_module_configs.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_game_deduction/lib/app/setup/view/index.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_game_deduction/lib/app/setup/view/pages/semnox_device_setup_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_game_deduction/lib/app/setup/view/widgets/editable_list_tile.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_game_deduction/lib/app/setup/view/widgets/index.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_game_deduction/lib/app/splash/bl/app_initialization_bl.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_game_deduction/lib/app/splash/view/screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_game_deduction/lib/app/splash/viewmodel/view_model.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_game_deduction/lib/app_module.dart" beforeDir="false" afterPath="$PROJECT_DIR$/parafait_game_deduction/lib/app_module.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_game_deduction/lib/app_module_manager.dart" beforeDir="false" afterPath="$PROJECT_DIR$/parafait_game_deduction/lib/app_module_manager.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_game_deduction/lib/common/config/app_config.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_game_deduction/lib/common/util/ui/themes.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_game_deduction/lib/flavors.dart" beforeDir="false" afterPath="$PROJECT_DIR$/parafait_game_deduction/lib/flavors.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_game_deduction/lib/gen/assets.gen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_game_deduction/lib/main-development.dart" beforeDir="false" afterPath="$PROJECT_DIR$/parafait_game_deduction/lib/main-development.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_game_deduction/lib/main-production.dart" beforeDir="false" afterPath="$PROJECT_DIR$/parafait_game_deduction/lib/main-production.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_game_deduction/lib/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_game_deduction/lib/routes.dart" beforeDir="false" afterPath="$PROJECT_DIR$/parafait_game_deduction/lib/routes.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_game_deduction/linux/flutter/generated_plugin_registrant.cc" beforeDir="false" afterPath="$PROJECT_DIR$/parafait_game_deduction/linux/flutter/generated_plugin_registrant.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_game_deduction/linux/flutter/generated_plugin_registrant.h" beforeDir="false" afterPath="$PROJECT_DIR$/parafait_game_deduction/linux/flutter/generated_plugin_registrant.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_game_deduction/linux/flutter/generated_plugins.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/parafait_game_deduction/linux/flutter/generated_plugins.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_game_deduction/macos/Flutter/GeneratedPluginRegistrant.swift" beforeDir="false" afterPath="$PROJECT_DIR$/parafait_game_deduction/macos/Flutter/GeneratedPluginRegistrant.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_game_deduction/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/parafait_game_deduction/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_game_deduction/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/parafait_game_deduction/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_game_deduction/test/widget_test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/parafait_game_deduction/test/widget_test.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_game_deduction/windows/flutter/generated_plugin_registrant.cc" beforeDir="false" afterPath="$PROJECT_DIR$/parafait_game_deduction/windows/flutter/generated_plugin_registrant.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_game_deduction/windows/flutter/generated_plugin_registrant.h" beforeDir="false" afterPath="$PROJECT_DIR$/parafait_game_deduction/windows/flutter/generated_plugin_registrant.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_game_deduction/windows/flutter/generated_plugins.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/parafait_game_deduction/windows/flutter/generated_plugins.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_maintainence/android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/parafait_maintainence/android/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_maintainence/android/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/parafait_maintainence/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_maintainence/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/parafait_maintainence/android/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_maintainence/assets/images/maint_logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/parafait_maintainence/assets/images/maint_logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_maintainence/assets/images/semnox_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_maintainence/assets/web_configuration.json" beforeDir="false" afterPath="$PROJECT_DIR$/parafait_maintainence/assets/web_configuration.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_maintainence/lib/app/parafait_home/view/homescreen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/parafait_maintainence/lib/app/parafait_home/view/homescreen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_maintainence/lib/app/parafait_home/view_model/homescreen_view_model.dart" beforeDir="false" afterPath="$PROJECT_DIR$/parafait_maintainence/lib/app/parafait_home/view_model/homescreen_view_model.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_maintainence/lib/app/parafait_login_authentication/view/parafait_login_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/parafait_maintainence/lib/app/parafait_login_authentication/view/parafait_login_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_maintainence/lib/app/parafait_login_authentication/view_model/login_view_model.dart" beforeDir="false" afterPath="$PROJECT_DIR$/parafait_maintainence/lib/app/parafait_login_authentication/view_model/login_view_model.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_maintainence/lib/app/parafait_network_configuration/view/parafait_network_configuration_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/parafait_maintainence/lib/app/parafait_network_configuration/view/parafait_network_configuration_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_maintainence/lib/app/parafait_network_configuration/view_model/network_configuration_view_model.dart" beforeDir="false" afterPath="$PROJECT_DIR$/parafait_maintainence/lib/app/parafait_network_configuration/view_model/network_configuration_view_model.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_maintainence/lib/app/parafait_splash/view/parafait_splash_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/parafait_maintainence/lib/app/parafait_splash/view/parafait_splash_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_maintainence/lib/app/parafait_splash/view_model/splashscreen_view_model.dart" beforeDir="false" afterPath="$PROJECT_DIR$/parafait_maintainence/lib/app/parafait_splash/view_model/splashscreen_view_model.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_maintainence/lib/app/routes.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_maintainence/lib/app/widget/builderwidget/builderwidget.dart" beforeDir="false" afterPath="$PROJECT_DIR$/parafait_maintainence/lib/app/widget/builderwidget/builderwidget.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_maintainence/lib/app_information_builder.dart" beforeDir="false" afterPath="$PROJECT_DIR$/parafait_maintainence/lib/app_information_builder.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_maintainence/lib/app_module.dart" beforeDir="false" afterPath="$PROJECT_DIR$/parafait_maintainence/lib/app_module.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_maintainence/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/parafait_maintainence/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_maintainence/lib/main_development.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_maintainence/lib/main_production.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_maintainence/lib/themes.dart" beforeDir="false" afterPath="$PROJECT_DIR$/parafait_maintainence/lib/themes.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_maintainence/macos/Flutter/GeneratedPluginRegistrant.swift" beforeDir="false" afterPath="$PROJECT_DIR$/parafait_maintainence/macos/Flutter/GeneratedPluginRegistrant.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_maintainence/pubspec.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parafait_maintainence/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/parafait_maintainence/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/.flutter-plugins" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_core/.flutter-plugins" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_core/.flutter-plugins-dependencies" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/lib/generator/assets.generator.dart" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_core/lib/generator/assets.generator.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/lib/generator/fonts.generator.dart" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_core/lib/generator/fonts.generator.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/lib/modules/app_information/model/app_information_dto.dart" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_core/lib/modules/app_information/model/app_information_dto.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/lib/modules/app_information/provider/app_Information_provider.dart" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_core/lib/modules/app_information/provider/app_Information_provider.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/lib/modules/app_initializer/app_Intializer_bl.dart" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_core/lib/modules/app_initializer/app_Intializer_bl.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/lib/modules/authentication/bl/authentication_bl.dart" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_core/lib/modules/authentication/bl/authentication_bl.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/lib/modules/authentication/repository/authentication_repository.dart" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_core/lib/modules/authentication/repository/authentication_repository.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/lib/modules/authentication/repository/request/authentication_service.dart" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_core/lib/modules/authentication/repository/request/authentication_service.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/lib/modules/common_services/repository/request/generic_otp_service.dart" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_core/lib/modules/common_services/repository/request/generic_otp_service.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/lib/modules/customer/model/account/account_activity_dto.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/lib/modules/customer/model/account/account_dto.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/lib/modules/customer/model/account/account_response_dto.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/lib/modules/customer/model/customer/customer_dto.dart" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_core/lib/modules/customer/model/customer/customer_dto.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/lib/modules/customer/repository/request/customer_service.dart" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_core/lib/modules/customer/repository/request/customer_service.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/lib/modules/execution_context/model/execution_context_dto.dart" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_core/lib/modules/execution_context/model/execution_context_dto.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/lib/modules/execution_context/provider/execution_context_provider.dart" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_core/lib/modules/execution_context/provider/execution_context_provider.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/lib/modules/game/bl/game_usecases.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/lib/modules/languages/model/language_container_dto.dart" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_core/lib/modules/languages/model/language_container_dto.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/lib/modules/languages/repository/language_view_repository.dart" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_core/lib/modules/languages/repository/language_view_repository.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/lib/modules/languages/repository/request/language_view_service.dart" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_core/lib/modules/languages/repository/request/language_view_service.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/lib/modules/lookups/bl/lookup_view_bl.dart" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_core/lib/modules/lookups/bl/lookup_view_bl.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/lib/modules/lookups/model/lookup_container_dto.dart" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_core/lib/modules/lookups/model/lookup_container_dto.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/lib/modules/lookups/repository/lookup_view_repository.dart" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_core/lib/modules/lookups/repository/lookup_view_repository.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/lib/modules/lookups/repository/request/lookup_view_service.dart" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_core/lib/modules/lookups/repository/request/lookup_view_service.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/lib/modules/machine_mac_address/mac_address_provider.dart" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_core/lib/modules/machine_mac_address/mac_address_provider.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/lib/modules/messages/bl/translation_view_bl.dart" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_core/lib/modules/messages/bl/translation_view_bl.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/lib/modules/messages/model/translation_view_dto.dart" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_core/lib/modules/messages/model/translation_view_dto.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/lib/modules/messages/provider/translation_provider.dart" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_core/lib/modules/messages/provider/translation_provider.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/lib/modules/messages/repository/request/translation_service.dart" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_core/lib/modules/messages/repository/request/translation_service.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/lib/modules/messages/repository/translation_view_repository.dart" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_core/lib/modules/messages/repository/translation_view_repository.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/lib/modules/network_configuration/bl/network_configuration_bl.dart" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_core/lib/modules/network_configuration/bl/network_configuration_bl.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/lib/modules/network_configuration/model/network_configuration_dto.dart" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_core/lib/modules/network_configuration/model/network_configuration_dto.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/lib/modules/network_configuration/provider/network_configuration_provider.dart" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_core/lib/modules/network_configuration/provider/network_configuration_provider.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/lib/modules/network_configuration/provider/network_connectivity_provider.dart" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_core/lib/modules/network_configuration/provider/network_connectivity_provider.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/lib/modules/network_configuration/repository/request/server_connection_check_service.dart" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_core/lib/modules/network_configuration/repository/request/server_connection_check_service.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/lib/modules/network_configuration/repository/server_connection_check_repository.dart" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_core/lib/modules/network_configuration/repository/server_connection_check_repository.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/lib/modules/parafait_defaults_configuration/bl/parafait_default_view_bl.dart" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_core/lib/modules/parafait_defaults_configuration/bl/parafait_default_view_bl.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/lib/modules/parafait_defaults_configuration/model/parafait_default_values_dto.dart" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_core/lib/modules/parafait_defaults_configuration/model/parafait_default_values_dto.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/lib/modules/parafait_defaults_configuration/repository/parafait_default_view_repository.dart" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_core/lib/modules/parafait_defaults_configuration/repository/parafait_default_view_repository.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/lib/modules/parafait_defaults_configuration/repository/request/parafait_default_view_service.dart" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_core/lib/modules/parafait_defaults_configuration/repository/request/parafait_default_view_service.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/lib/modules/pos_machines/model/pos_machine_dto.dart" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_core/lib/modules/pos_machines/model/pos_machine_dto.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/lib/modules/pos_machines/repository/pos_machine_view_repository.dart" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_core/lib/modules/pos_machines/repository/pos_machine_view_repository.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/lib/modules/pos_machines/repository/request/pos_machine_service.dart" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_core/lib/modules/pos_machines/repository/request/pos_machine_service.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/lib/modules/sites/bl/site_view_bl.dart" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_core/lib/modules/sites/bl/site_view_bl.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/lib/modules/sites/model/site_view_dto.dart" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_core/lib/modules/sites/model/site_view_dto.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/lib/modules/sites/repository/request/site_view_service.dart" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_core/lib/modules/sites/repository/request/site_view_service.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/lib/modules/sites/repository/sites_view_repository.dart" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_core/lib/modules/sites/repository/sites_view_repository.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/lib/modules/utilities/api_service_library/data_with_hash.dart" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_core/lib/modules/utilities/api_service_library/data_with_hash.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/lib/modules/utilities/api_service_library/semnox_parafait_server.dart" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_core/lib/modules/utilities/api_service_library/semnox_parafait_server.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/lib/modules/utilities/api_service_library/server_exception.dart" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_core/lib/modules/utilities/api_service_library/server_exception.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/lib/utils/color.dart" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_core/lib/utils/color.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/lib/utils/constants.dart" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_core/lib/utils/constants.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/lib/utils/database/databaseHelper.dart" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_core/lib/utils/database/databaseHelper.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/lib/utils/extension/color.dart" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_core/lib/utils/extension/color.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/lib/utils/extension/date_time.dart" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_core/lib/utils/extension/date_time.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/lib/utils/extension/double.dart" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_core/lib/utils/extension/double.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/lib/utils/extension/formatter.dart" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_core/lib/utils/extension/formatter.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/lib/utils/icons/icons.dart" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_core/lib/utils/icons/icons.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/lib/utils/parafait_cache/parafait_cache.dart" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_core/lib/utils/parafait_cache/parafait_cache.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/lib/utils/parafait_cache/parafait_storage.dart" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_core/lib/utils/parafait_cache/parafait_storage.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/lib/utils/storage_service/hive_local_storage_service.dart" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_core/lib/utils/storage_service/hive_local_storage_service.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/lib/utils/storage_service/local_storage.dart" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_core/lib/utils/storage_service/local_storage.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/lib/utils/text_style.dart" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_core/lib/utils/text_style.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/lib/utils/theme/semnox_theme.dart" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_core/lib/utils/theme/semnox_theme.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/lib/widgets/buttons/flat_button.dart" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_core/lib/widgets/buttons/flat_button.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/lib/widgets/buttons/outline_button.dart" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_core/lib/widgets/buttons/outline_button.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/lib/widgets/buttons/semnox_circle_loader.dart" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_core/lib/widgets/buttons/semnox_circle_loader.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/lib/widgets/cards/list_tiles/expansion_tile.dart" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_core/lib/widgets/cards/list_tiles/expansion_tile.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/lib/widgets/elements/semnox_state_icon.dart" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_core/lib/widgets/elements/semnox_state_icon.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/lib/widgets/elements/text.dart" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_core/lib/widgets/elements/text.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/lib/widgets/elements/version_tag.dart" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_core/lib/widgets/elements/version_tag.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/lib/widgets/input_fields/checkbox.dart" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_core/lib/widgets/input_fields/checkbox.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/lib/widgets/input_fields/date_field/date_field.dart" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_core/lib/widgets/input_fields/date_field/date_field.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/lib/widgets/input_fields/date_field/properties.dart" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_core/lib/widgets/input_fields/date_field/properties.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/lib/widgets/input_fields/dropdown_field.dart" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_core/lib/widgets/input_fields/dropdown_field.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/lib/widgets/input_fields/nfc_reader/nfc_reader.dart" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_core/lib/widgets/input_fields/nfc_reader/nfc_reader.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/lib/widgets/input_fields/nfc_reader/properties.dart" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_core/lib/widgets/input_fields/nfc_reader/properties.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/lib/widgets/input_fields/nfc_reader/semnox_ride_tap_card.dart" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_core/lib/widgets/input_fields/nfc_reader/semnox_ride_tap_card.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/lib/widgets/input_fields/properties/dropdown_field_properties.dart" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_core/lib/widgets/input_fields/properties/dropdown_field_properties.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/lib/widgets/input_fields/properties/input_field_properties.dart" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_core/lib/widgets/input_fields/properties/input_field_properties.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/lib/widgets/input_fields/properties/text_field_properties.dart" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_core/lib/widgets/input_fields/properties/text_field_properties.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/lib/widgets/input_fields/search_field.dart" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_core/lib/widgets/input_fields/search_field.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/lib/widgets/input_fields/text_fields/editable_list_tile.dart" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_core/lib/widgets/input_fields/text_fields/editable_list_tile.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/lib/widgets/input_fields/text_fields/input_text_field.dart" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_core/lib/widgets/input_fields/text_fields/input_text_field.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/lib/widgets/layout/scaffold.dart" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_core/lib/widgets/layout/scaffold.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/lib/widgets/layout/semnox_setup_scaffold.dart" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_core/lib/widgets/layout/semnox_setup_scaffold.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/lib/widgets/layout/semnox_splash_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_core/lib/widgets/layout/semnox_splash_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/lib/widgets/layout/tab_layout.dart" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_core/lib/widgets/layout/tab_layout.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/lib/widgets/overlay/menu_button.dart" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_core/lib/widgets/overlay/menu_button.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/lib/widgets/overlay/overlay.dart" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_core/lib/widgets/overlay/overlay.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/lib/widgets/popup/popup_buttons.dart" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_core/lib/widgets/popup/popup_buttons.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/lib/widgets/popup/toast.dart" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_core/lib/widgets/popup/toast.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/lib/widgets/semnox_widget/login_widget/view/login_form.dart" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_core/lib/widgets/semnox_widget/login_widget/view/login_form.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/lib/widgets/semnox_widget/login_widget/view_model/login_user_form_view_model.dart" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_core/lib/widgets/semnox_widget/login_widget/view_model/login_user_form_view_model.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/lib/widgets/semnox_widget/network_configuration_widget.dart/view/network_configuration_form.dart" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_core/lib/widgets/semnox_widget/network_configuration_widget.dart/view/network_configuration_form.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/lib/widgets/semnox_widget/network_configuration_widget.dart/view_model/network_configuration_form_view_model.dart" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_core/lib/widgets/semnox_widget/network_configuration_widget.dart/view_model/network_configuration_form_view_model.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/lib/widgets/tables/responsive_table.dart" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_core/lib/widgets/tables/responsive_table.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/lib/widgets/tables/table.dart" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_core/lib/widgets/tables/table.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_core/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_core/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_core/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/semnox_logger/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/semnox_logger/pubspec.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/parafait_game_deduction/android/app/build.gradle" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectId" id="2Ei4o4HDYLH2iRvw9Z13L22leSx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Parafait-MaintainenceApp" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Parafait-MaintainenceApp" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.other.NonAndroidModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Parafait-Maintainence" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Parafait-Maintainence" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "cidr.known.project.marker": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "last_opened_file_path": "C:/Users/yathish.kumar/Semnox Projects/Semnox Updated Projects/Semnox/Parafait-semnox/parafait_game_deduction",
+    "settings.editor.selected.configurable": "flutter.settings",
+    "show.migrate.to.gradle.popup": "false"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="INSPECTION_WITHOUT_ACTIVITY_RESTART" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1663060179194" />
+      </method>
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
+      <option name="TESTING_TYPE" value="0" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_NAME_REGEX" value="" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="RETENTION_ENABLED" value="No" />
+      <option name="RETENTION_MAX_SNAPSHOTS" value="2" />
+      <option name="RETENTION_COMPRESS_SNAPSHOTS" value="false" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="INSPECTION_WITHOUT_ACTIVITY_RESTART" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <method v="2">
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1663060179194" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main-development.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/parafait_maintainence/lib/main_development.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f9825c5a-20c7-4379-bd07-eef22115e9c4" name="Default" comment="" />
+      <created>1662026650061</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662026650061</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Flutter Outline" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39934534" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Flutter Inspector" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Android</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Android|Parafait-MaintainenceApp</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Dart SDK</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
