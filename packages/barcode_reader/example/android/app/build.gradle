@@ -25,6 +25,16 @@ apply plugin: 'com.android.application'
 apply from: "$flutterRoot/packages/flutter_tools/gradle/flutter.gradle"
 
 android {
+    signingConfigs {
+    
+        debug {
+            // Debug signing configuration
+            storeFile file('debug.keystore') // Path to your debug keystore
+            storePassword 'android' // Password for your debug keystore
+            keyAlias 'androiddebugkey' // Alias for your debug key
+            keyPassword 'android' // Password for your debug key
+        }
+    }
     compileSdkVersion flutter.compileSdkVersion
 
     compileOptions {
