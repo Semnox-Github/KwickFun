@@ -12,6 +12,8 @@ dependencies:
     sdk: flutter
   flutter_web_plugins:
     sdk: flutter
+  sunmi_barcode_scanner: ^0.0.4
+  
 
 dev_dependencies:
   flutter_test:

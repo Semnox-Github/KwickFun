@@ -28,17 +28,32 @@ class SemnoxNFCReaderProperties extends SemnoxTextFieldProperties {
   StreamSubscription<NFCReadData>? _subscription;
   final bool canReadBarcode;
 
+Future<bool> isSunmiDevice() async {
+  final deviceInfo = await DeviceInfoPlugin().androidInfo;
+  //print('deviceCheck $deviceInfo');
+  return deviceInfo.brand == "SUNMI"; // Adjust the criteria as needed
+  }
   ///
   /// Starts to listning the NFC Card Tap.
   ///
-  void startListening() {
+  Future<void> startListening() async {
     print('Starting to listen...');
     _subscription = _nfcManager.dataStream.listen((event) {
       textEditingController?.text = extractIdFromMessage(event.data) ?? "";
     });
 
     _nfcManager.startScan();
-    if (canReadBarcode) BarcodeReader.instance.registerCallback(_readBarcode);
+    if (canReadBarcode)
+    {
+      if(await isSunmiDevice())
+      {
+        SunmiBarcodeReader.instance.registerCallback(_readBarcode);
+      }
+      else
+      {
+      BarcodeReader.instance.registerCallback(_readBarcode);
+      }
+    }
   }
 
   void _readBarcode(String data) {

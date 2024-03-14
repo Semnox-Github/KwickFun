@@ -157,6 +157,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.2.0"
+  sunmi_barcode_scanner:
+    dependency: "direct main"
+    description:
+      name: sunmi_barcode_scanner
+      sha256: "96fcbf522e60bbec23bae3503a2b392050249e0796e6e8ebe9b114226d349bbf"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.0.4"
   term_glyph:
     dependency: transitive
     description:

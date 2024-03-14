@@ -37,6 +37,8 @@ dependencies:
     path: ../packages/nfc/
   barcode_reader:
     path: ../packages/barcode_reader/
+# sunmi_barcode_reader:
+  #  path: ../packages/barcode_reader/
 
   semnox_logger:
     path: ../semnox_logger/
@@ -94,7 +96,7 @@ dependencies:
   intl: ^0.17.0
 
   logger: ^1.1.0
-  device_info_plus: ^8.0.0
+  device_info_plus: ^8.2.2
 
 dev_dependencies:
   build_runner: null

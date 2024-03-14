@@ -1,10 +1,13 @@
 import 'dart:async';
+
+import 'package:barcode_reader/barcode_reader.dart';
+import "package:barcode_reader/sunmi_barcode_reader.dart";
+import 'package:device_info_plus/device_info_plus.dart';
 import 'package:flutter/material.dart';
 import 'package:nfc/nfc.dart';
+
 import '../../../semnox_core.dart';
-import 'package:barcode_reader/barcode_reader.dart';
 import 'semnox_ride_tap_card.dart';
-import 'package:device_info_plus/device_info_plus.dart';
 
 part 'properties.dart';
 
